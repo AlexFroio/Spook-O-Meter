@@ -26,7 +26,7 @@ void loop() {
 //Serial.println(i);
 
 
-
+LPM0;
 //Serial.println(i, DEC);
 if ( i == 0){
 //  case 0:
